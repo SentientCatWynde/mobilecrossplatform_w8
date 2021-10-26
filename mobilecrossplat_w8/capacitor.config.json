@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "mobilecrossplat_w8",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

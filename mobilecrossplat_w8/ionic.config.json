@@ -1,0 +1,7 @@
+{
+  "name": "mobilecrossplat_w8",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
